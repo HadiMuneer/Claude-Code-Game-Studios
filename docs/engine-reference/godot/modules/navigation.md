@@ -1,8 +1,12 @@
 # Godot Navigation — Quick Reference
 
-Last verified: 2026-02-12 | Engine: Godot 4.6
+Last verified: 2026-03-28 | Engine: Godot 4.6.1
 
 ## What Changed Since ~4.3 (LLM Cutoff)
+
+### 4.6 Changes
+- **No navigation API changes** — `NavigationAgent3D/2D`, `NavigationServer3D/2D`, and all path query APIs are unchanged from 4.5
+- The patterns and code samples in this file are confirmed current for 4.6.1
 
 ### 4.5 Changes
 - **Dedicated 2D navigation server**: No longer a proxy to 3D NavigationServer

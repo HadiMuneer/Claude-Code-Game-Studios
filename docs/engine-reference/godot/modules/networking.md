@@ -1,12 +1,12 @@
 # Godot Networking — Quick Reference
 
-Last verified: 2026-02-12 | Engine: Godot 4.6
+Last verified: 2026-03-28 | Engine: Godot 4.6.1
 
 ## What Changed Since ~4.3 (LLM Cutoff)
 
 ### 4.6 Changes
-- **Networking section in breaking changes**: See the official migration guide for
-  specifics at the 4.5→4.6 level
+- **No breaking changes to networking API** — `ENetMultiplayerPeer`, `@rpc`, `MultiplayerSpawner`, `MultiplayerSynchronizer`, and `SceneMultiplayer` are all stable and unchanged from 4.5
+- TIME-PUNK is single-player; this module is included for completeness only
 
 ### 4.5 Changes
 - **No major networking API breaks** — core multiplayer API remains stable
